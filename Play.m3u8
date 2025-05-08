@@ -1,3 +1,15 @@
 #EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CODECS="avc1.4d401f,mp4a.40.2",BANDWIDTH=800000,RESOLUTION=640x360
-https://aps33.playlist.ttvnw.net/v1/playlist/Cs4GSeSLmxVlVI6mTa97CzSx6dI6vpa9KO0oxrB16ryqIWkwCUH4CFeSJ_cxHwvMa0vRILC6ebk3qmHb7yIY3ylY65awd0MnQEvBx3bY5_3cezCg02VP5SrASgAZvNrJTAnzWQGQVgvJW2PQRZ96jmy7G3w2mj1fHgF-R9hfbd3dw9A65YKuP_8ZXdCS8JxzckoBztXNU7eplk7zi16hGMj08Wx36wlTv--Ndij5YIb2BRDC_Lnof9otEUwlO5RlBvuC0kChkcPoXjycP8Cwy9yaW9a3WmdsI8Yckb9OjYCw0ixmW1T8-y5DkRCrmEKlEaPAzGZeJ-REyxrvyvsMZD5Vlk_kPuMiEhc0LeEP3bwRro6-HHiGuw4ByTiEwqRSavoZptUUWDo13xa3CMRLwAvD8n0dqD-JSbnJYJobTuZ-TkZwk3ONfIMh5D-gXrgdicj2XKtZtFJ8JR-uE-t-lXovP3yKXU4DNeVfsOVwd6lz-jDSspMfe-oRlPC9Y0AAAcao6yfjlw87DYIfy4x-ONLn8guyaouj83rxhKNnhXhogXdeK-W9aw89Qpbm_EKbR5UowgSjQPJgacQki8stLpI_k1DMEKvqxKD4BaqEod7xBR-ud3vkuiPw0RHWor5nM7DuLxmS2t-CokdHwznLniFWPdA5DFcimoPqXKm39H3ApD5diiwCnQHKmOn9LIeoFYCgVk3-nElsFGARWxOUrba2e5eTa9yIjnkclQM5eoNmRkTL3Ojam6FNC_1P8zYV3Med-PtehmtyCZNashSNK3an1HHu_0hoY95Cjj3sfMAJTh-ueFk71k6REQzFREGhKUZ9699xnR4KsyAZ26SVJElAofU_Xq3bHLunVHKhi82wvJLOFZrbr4VbemlEdVdGFFPal4YUhgUaDdc-XuEa64yS_xcMLDu6suXXsFQX7khxZn2PhBgsZ96mHdTuMBjwcZjQvs3EFPRNtdEw9PqNWi1gIq_YYzxKdJEzJWBgo-HYprWHcCh15ML1zjf8B_BKAhDB5urhO4tY4sOU3Vis7PYEilWfMa8IQBzkvbWJ5246rhRs3EJkq8zpBMPxaCUAW-tAa75L1vDFogKJeNgMvLSisOLmZYZUmbGuS_UqjM-9GgwfoDok2jfL0a-LtPUgASoJdXMtd2VzdC0yMJYM.m3u8
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:3
+#EXT-X-MEDIA-SEQUENCE:3
+#EXT-X-ALLOW-CACHE:YES
+#EXTINF:3.000,
+https://fardinnb864457h.github.io/Offline/Play.ts
+#EXTINF:3.000,
+https://fardinnb864457h.github.io/Offline/Play.ts. 
+#EXTINF:3.000,
+https://fardinnb864457h.github.io/Offline/Play.ts
+#EXTINF:3.000,
+https://fardinnb864457h.github.io/Offline/Play.ts
+#EXTINF:3.000,
+https://fardinnb864457h.github.io/Offline/Play.ts
